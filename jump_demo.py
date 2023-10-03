@@ -6,6 +6,7 @@ def jump(height = 20):
     right(120)
     forward(height)
     left(60)
+    forward(height)
 
 
 for size in range(20, 70, 5):

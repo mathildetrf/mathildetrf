@@ -9,6 +9,6 @@ def jump(height = 20):
 
 for size in range(20, 70, 5):
     forward(30)
-    jump()
+    jump(size)
 
 exitonclick()

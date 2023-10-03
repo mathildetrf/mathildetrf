@@ -12,5 +12,3 @@ for size in range(20, 70, 5):
     jump(size)
 
 exitonclick()
-
-test

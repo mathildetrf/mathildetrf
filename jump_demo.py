@@ -1,12 +1,14 @@
 from turtle import forward, left, right, exitonclick
 
-def step(size):
+def jump(size):
+    left(60)
     forward(size)
-    left(90)
+    right(120)
     forward(size)
-    right(90)
+    left(60)
+
 
 for size in range(20, 70, 5):
-    step(size)
+    jump(size)
 
 exitonclick()

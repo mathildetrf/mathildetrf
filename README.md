@@ -8,7 +8,7 @@
 7. Pull
 8. Give a name to the changes
 9. Commit
-10. Synchronizing
+10. Sync Changes
 11. Check on the Github repository that everything worked
 
 # 2. Title
